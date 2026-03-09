@@ -1,4 +1,5 @@
-# 🎬 Video-to-MP3 Microservices Project
+# 🎬 Media flux
+
 
 A **hands-on microservice architecture** project demonstrating a distributed system that converts **video files to MP3s**. This project is built using Python, Flask, Docker, Kubernetes, and other modern tools to showcase real-world microservices concepts.  
 
